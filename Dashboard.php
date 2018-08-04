@@ -1,7 +1,7 @@
 <!doctype html>
 <body>
 	<head>
-	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	
 	
@@ -10,8 +10,8 @@
 			<div align="right">
 						<a href="#" >Home</a>&nbsp;|
 						<a href="login.php">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-						<a href="Student_reg.php"><img src="image/login.png">Registration As Student</a>&nbsp;|
-						<a href="Teacher_reg.php"><img src="image/login.png">Registration As Teacher</a>
+						<a href="Student_reg.php"><img src="image/login.png">Registration As A Student</a>&nbsp;|
+						<a href="Teacher_reg.php"><img src="image/login.png">Registration As A Teacher</a>
 					</div>
 
 		
